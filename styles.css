@@ -1,1 +1,25 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+li {
+    padding: 5px;
+}
+
+.listAddendum {
+    color: green;
+}
+
+details {
+    padding: 10px;
+}
